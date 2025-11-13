@@ -1,0 +1,2 @@
+projektnummer,anlagenbetreiber,telefon_nr,anlagenadresse,postadresse,modul_hersteller,modul_type,modul_anzahl,wechselrichter_hersteller,wechselrichter_type,batterie_hersteller,batterie_type,datum_ueberpruefung,name_pruefer,naechste_ueberpruefung
+2025-001,Max Mustermann,+43 123 456789,"Mustergasse 1, 1010 Wien",,Trina Solar,TSM-NEG9R.28,50,Solaxpower,X3-Hybrid G4 10.0kW,Solaxpower,T-BAT H 9.0 V2,20.12.2024,Vagapov Jamal,20.12.2025

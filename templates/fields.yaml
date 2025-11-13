@@ -1,0 +1,26 @@
+anlagenbetreiber:
+  - "Franz Konrad"
+  - "Max Mustermann"
+  - "Erika Musterfrau"
+
+telefon_nr:
+  - "+43 676 85463924"
+  - "+43 664 1234567"
+
+name_pruefer:
+  - "Jamal Vagapov"
+
+modul_hersteller:
+  - "Trina Solar"
+  - "Jinko Solar"
+  - "Canadian Solar"
+
+wechselrichter_hersteller:
+  - "Solaxpower"
+  - "Fronius"
+  - "Huawei"
+
+batterie_hersteller:
+  - "Solaxpower"
+  - "BYD"
+  - "LG Energy Solution"

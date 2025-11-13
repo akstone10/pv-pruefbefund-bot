@@ -1,0 +1,25 @@
+data:
+  source: "data/input.csv"
+  encoding: "utf-8"
+
+templates:
+  html: "templates/prufbefund.html.tpl"
+  fields: "templates/fields.yaml"
+
+output:
+  directory: "outputs/"
+
+required_fields:
+  - anlagenbetreiber
+  - telefon_nr
+  - anlagenadresse
+  - postadresse
+  - datum_ueberpruefung
+  - name_pruefer
+  - naechste_ueberpruefung
+
+anlagenteile:
+  - Elektrotech. <br>Anlage-<br>Versorgung
+  - Verteiler
+  - Betriebsmittel
+  - Blitzschutz
