@@ -1,0 +1,14 @@
+{
+    "anlagenbetreiber": [
+        "Franz Konrad",
+        "Max Mustermann", 
+        "Erika Musterfrau"
+    ],
+    "telefon_nr": [
+        "+43 676 85463924",
+        "+43 664 1234567"
+    ],
+    "name_pruefer": [
+        "Jamal Vagapov"
+    ]
+}
